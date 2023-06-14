@@ -3,3 +3,5 @@
 
 container/node_modules
 formbuilder/node_modules
+container/coverage
+formbuilder/coverage
